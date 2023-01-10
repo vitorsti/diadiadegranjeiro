@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8a049b5b44b76b4bb2353f1e2131fe8, type: 3}
+  m_Name: interface
+  m_EditorClassIdentifier: 
+  datas:
+  - name: energia
+    description: "Essa \xE9 sua barra energia. a energia \xE9 usada para realizar
+      tarefas."
+    image: {fileID: 1933099398164517213, guid: 99c9ed2248587bd42841993aeda4eb06, type: 3}
+    video: {fileID: 0}
+    id: 0
+    videoOrImage: 2
+    enablePointer: 1
+    pointer: {fileID: 7950143116461175580, guid: 5dbcf3e640007fc42a882d0f4590e107,
+      type: 3}
+    pointerPosition: {x: -182, y: 196, z: 0}
+    useCustomPosition: 1
+    customPosition: {x: 32, y: 30, z: 0}
+  - name: cash
+    description: "Esse \xEDcone mostra seu cash, ele \xE9 usado para comprar upgrades
+      na loja. "
+    image: {fileID: 8621776215617270631, guid: 99c9ed2248587bd42841993aeda4eb06, type: 3}
+    video: {fileID: 0}
+    id: 1
+    videoOrImage: 2
+    enablePointer: 1
+    pointer: {fileID: 5823045238009656171, guid: 87510fb082da16a48bf14ec6088bab0e,
+      type: 3}
+    pointerPosition: {x: -390, y: 108, z: 0}
+    useCustomPosition: 1
+    customPosition: {x: -217, y: -89, z: 0}
+  - name: ouro
+    description: "Esse \xEDcone mostra seu ouro, esse \xE9 o cambio mais importante
+      do jogo, pois ele \xE9 crucial para completar algumas tarefas. O ouro \xE9
+      adquirido ao completar tarefas."
+    image: {fileID: 261996856475356708, guid: 99c9ed2248587bd42841993aeda4eb06, type: 3}
+    video: {fileID: 0}
+    id: 2
+    videoOrImage: 2
+    enablePointer: 1
+    pointer: {fileID: 6098351401430911336, guid: ad9e2a8d14ce0884fafb2b5d158eb225,
+      type: 3}
+    pointerPosition: {x: -273, y: 110, z: 0}
+    useCustomPosition: 1
+    customPosition: {x: -122, y: -87, z: 0}
+  - name: terefas
+    description: "\xCDcone das tarefas. Clique nele para ver as tarefas dispon\xEDveis
+      para serem feitas"
+    image: {fileID: 967211811753420335, guid: 99c9ed2248587bd42841993aeda4eb06, type: 3}
+    video: {fileID: 0}
+    id: 3
+    videoOrImage: 2
+    enablePointer: 1
+    pointer: {fileID: 237664722234216339, guid: b1e27d31d82608c4a9408da1d6a8313d,
+      type: 3}
+    pointerPosition: {x: 319, y: 131, z: 0}
+    useCustomPosition: 1
+    customPosition: {x: 154, y: -29, z: 0}
+  - name: encerrar dia
+    description: "Clique nesse \xEDcone para encerrar o dia. Encerrar o dia recarrega
+      sua energia"
+    image: {fileID: -5284916251752580035, guid: 99c9ed2248587bd42841993aeda4eb06,
+      type: 3}
+    video: {fileID: 0}
+    id: 4
+    videoOrImage: 2
+    enablePointer: 1
+    pointer: {fileID: 6031468111340288832, guid: 5a0c030fa79a059418c36359bda3945e,
+      type: 3}
+    pointerPosition: {x: 404, y: -95, z: 0}
+    useCustomPosition: 1
+    customPosition: {x: 65, y: -11, z: 0}
+  - name: Hora
+    description: "Esse \xE9 seu rel\xF3gio, ele mostra a hora atual no jogo, quando
+      o rel\xF3gio chegar a endtime o expediente acaba e o dia passa automaticamente."
+    image: {fileID: 21300000, guid: 3a242c11f93a8af40a4372d0da6eb1df, type: 3}
+    video: {fileID: 0}
+    id: 5
+    videoOrImage: 2
+    enablePointer: 1
+    pointer: {fileID: 5608501556355106720, guid: a7195f79138689641b3698af6449d81c,
+      type: 3}
+    pointerPosition: {x: -319, y: 210, z: 0}
+    useCustomPosition: 1
+    customPosition: {x: -65, y: 120, z: 0}
+  - name: escritorio
+    description: "Por fim, o \xEDcone do escrit\xF3rio, ao clicar nele v\xE3o ter
+      v\xE1rias informa\xE7\xF5es, clique nele para saber mais."
+    image: {fileID: -3788233124455883792, guid: 99c9ed2248587bd42841993aeda4eb06,
+      type: 3}
+    video: {fileID: 0}
+    id: 6
+    videoOrImage: 2
+    enablePointer: 1
+    pointer: {fileID: 7563533250332112685, guid: 48f7b8805c47a4d4982898bde5a3c20c,
+      type: 3}
+    pointerPosition: {x: 334, y: 210, z: 0}
+    useCustomPosition: 1
+    customPosition: {x: 188, y: 54, z: 0}
+  firstTime: 1
+  resetFistTime: 0

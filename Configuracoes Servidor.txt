@@ -1,0 +1,34 @@
+Pra vc acessar o ftp, vc vai usar o endereço:
+
+servicos.prodb.com.br na porta 59432
+Usuário: yahp
+Senha: DNJWo#xGE4P96i5taqcY
+
+
+Imagens Customizadas:
+
+Na pasta Html
+Caixa d Agua rodoluvio e Caixa d Agua aviario:
+Upar imagem em formato .png como "caixaAgua" (sem as aspas)
+
+Gerador:
+Upar imagem em formato .png como "gerador" (sem as aspas)
+
+Silos:
+Upar imagem em formato .png como "silo" (sem as aspas)
+
+para editar o tempo que cada imagem vai aparecer, apenas trocar
+o numero na frente do logo correspondente em "LogoTimers.txt"
+
+para editar as urls que vão abrir ao clicar em alguma imagem, apenas
+trocar a url na frente do logo correspondente em "LogoUrl.txt"
+
+Para adicionar um curso novo, abrir o documento "curso.txt"
+coloque "." depois do nome do ultimo curso e o nome do curso novo após
+o ponto. Depois, criar uma nova pasta no servidor com o mesmo nome que foi colocado no docuuento anterior.
+
+dentro da pasta do curso, colocar o logo do curso em formato .png como "logo"
+dentro da pasta do curso, colocar um documento de texto com as cores primarias e secundarias na seguinte formatação
+
+primaria"hexadecimal da cor primaria aqui".secundaria"hexadecimal da cor secundaria aqui" (remover as aspas)
+

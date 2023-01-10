@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3adefe8844ee81c4c91fd6ee98ff4f2d, type: 3}
+  m_Name: GQuestion17
+  m_EditorClassIdentifier: 
+  question: "A \xE1gua deve receber alguns cuidados especiais, al\xE9m do monitoramento
+    da sua qualidade, j\xE1 que a mesma pode ser uma poss\xEDvel fonte de contamina\xE7\xE3o,
+    tais como ser captada numa caixa de \xE1gua central para posterior distribui\xE7\xE3o,
+    apresentando-se limpa, fresca e isenta de pat\xF3genos."
+  answers:
+  - Verdadeiro.
+  - Falso.
+  - Nenhum.
+  itIsCorrect: Verdadeiro.
+  justification: "Sim! A \xE1gua deve receber alguns cuidados especiais, al\xE9m
+    do monitoramento da sua qualidade, j\xE1 que a mesma pode ser uma poss\xEDvel
+    fonte de contamina\xE7\xE3o, tais como ser captada numa caixa de \xE1gua central
+    para posterior distribui\xE7\xE3o, apresentando-se limpa, fresca e isenta de
+    pat\xF3genos. "

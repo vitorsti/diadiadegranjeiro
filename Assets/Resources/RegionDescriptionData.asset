@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 191bf60c4b3549b44bccf9ffad965d7d, type: 3}
+  m_Name: RegionDescriptionData
+  m_EditorClassIdentifier: 
+  datas:
+  - name: Farm
+    description: "Mantenha sua cerca em bom estado de conserva\xE7\xE3o! Isso evita
+      que pessoas e animais estranhos entrem na granja e tragam doen\xE7as ao frango!\r\n"
+    taskName: "Cerca do \xC1viario"
+    estamina: 15
+    timeToComplete: 60
+  - name: House
+    description: "Cerca = seguran\xE7a! Evita a entrada de pessoas e animais de vida
+      livre na sua propriedade!\r\n"
+    taskName: Cerca da casa
+    estamina: 15
+    timeToComplete: 60
+  - name: Heater
+    description: "Aten\xE7\xE3o ao sistema de aquecimento! Pintinhos em conforto
+      t\xEAm melhor desempenho produtivo e sistema imunol\xF3gico mais forte contra
+      doen\xE7as! desempenho produtivo e e sistema imunol\xF3gico mais forte contra
+      doen\xE7as!\r\n"
+    taskName: Aquecedor
+    estamina: 15
+    timeToComplete: 60
+  - name: Composter
+    description: "Certifique-se que a composteira esteja vedada, impedindo o contato
+      de qualquer criatura com as carca\xE7as! Ah, n\xE3o esque\xE7a do manejo correto
+      para ocorrer a fermenta\xE7\xE3o, sem cheiro ruim!"
+    taskName: Composteira
+    estamina: 15
+    timeToComplete: 60
+  - name: WaterTankA
+    description: "Caixa d\u2019\xE1gua bem localizada \xE9 sinal de \xE1gua fresca
+      e de qualidade! Fa\xE7a clora\xE7\xE3o na \xE1gua da caixa d\u2019\xE1gua e
+      mantenha a tampa sempre fechada! A\xE7\xE3o assim, voc\xEA evita que a \xE1gua
+      traga doen\xE7as para as aves."
+    taskName: "Caixa d \xE1gua - Aviario"
+    estamina: 15
+    timeToComplete: 60
+  - name: WaterTankB
+    description: "Aten\xE7\xE3o \xE0 dilui\xE7\xE3o e tipo do desinfetante utilizado
+      na \xE1gua do rodol\xFAvio para que o ve\xEDculo n\xE3o traga pat\xF3genos!
+      Mantenha o risco fora da sua propriedade!\r\n"
+    taskName: "Caixa de \xE1gua - Rodoluvio"
+    estamina: 15
+    timeToComplete: 60
+  - name: Generator
+    description: "Manuten\xE7\xE3o e teste cont\xEDnuo no gerador garantir\xE1 que
+      o avi\xE1rio mantenha suas atividades mesmo com queda de energia! Fique atento!\r\n"
+    taskName: Gerador de energia
+    estamina: 15
+    timeToComplete: 60
+  - name: SiloA
+    description: "A Ra\xE7\xE3o precisa estar  livre de fungos que podem se formar
+      quando a ra\xE7\xE3o fica encrustada por mais tempo no silo, fique atento! 
+      Mantenha-o limpo e fechados para que aves de vida livre e roedores n\xE3o se
+      alimentem, trazendo doen\xE7a e preju\xEDzo econ\xF4mico \xE0 produ\xE7\xE3o.\r\n"
+    taskName: Silo A
+    estamina: 15
+    timeToComplete: 60
+  - name: SiloB
+    description: "A Ra\xE7\xE3o precisa estar  livre de fungos que podem se formar
+      quando a ra\xE7\xE3o fica encrustada por mais tempo no silo, fique atento! 
+      Mantenha-o limpo e fechados para que aves de vida livre e roedores n\xE3o se
+      alimentem, trazendo doen\xE7a e preju\xEDzo econ\xF4mico \xE0 produ\xE7\xE3o.\r\n"
+    taskName: Silo B
+    estamina: 15
+    timeToComplete: 60
+  - name: LockerRoom
+    description: "Aqui, roedores n\xE3o s\xE3o bem-vindos! Eles transmitem bact\xE9rias
+      como salmonelas por fezes na ra\xE7\xE3o al\xE9m de consumir a ra\xE7\xE3o
+      dos frangos prejudicando a biosseguran\xE7a.  Coloque iscas e ratoeiras, e
+      fa\xE7a vistoria. "
+    taskName: Ratoeiras
+    estamina: 15
+    timeToComplete: 60

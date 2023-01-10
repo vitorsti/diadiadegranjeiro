@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3adefe8844ee81c4c91fd6ee98ff4f2d, type: 3}
+  m_Name: gQuestion5
+  m_EditorClassIdentifier: 
+  question: "A limpeza da \xE1rea em que o silo est\xE1 localizado deve ser feita
+    frequentemente para evitar que por\xE7\xF5es de ra\xE7\xF5es que caem n\xE3o
+    atraiam aves silvestres e roedores. "
+  answers:
+  - Sim.
+  - "N\xE3o."
+  - Nenhum.
+  itIsCorrect: Sim.
+  justification: "Sim! A limpeza da \xE1rea em que o silo est\xE1 localizado deve
+    ser feita frequentemente para evitar que por\xE7\xF5es de ra\xE7\xF5es que caem
+    n\xE3o atraiam aves silvestres e roedores. "

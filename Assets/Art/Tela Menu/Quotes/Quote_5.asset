@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1787efa082a090140bdf9ea2dd578726, type: 3}
+  m_Name: Quote_5
+  m_EditorClassIdentifier: 
+  quoteText: "Voc\xEA sabia que as galinhas perderam a capacidade de voar? Talvez
+    por que n\xE3o precisem mais fugir de predadores e seu alimento \xE9 encontrado
+    no ch\xE3o..."

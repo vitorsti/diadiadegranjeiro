@@ -1,0 +1,281 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4650bc28fefca7842aa0df395b7a439d, type: 3}
+  m_Name: ShopData
+  m_EditorClassIdentifier: 
+  index: 0
+  number: 0
+  chooseWhatToCahnge: 3
+  apply: 0
+  datas:
+  - id: 0
+    region: 1
+    nome: Cerca do aviario
+    regionData: {fileID: 11400000, guid: 8df7de5d654500e4ca385ebc986defc0, type: 2}
+    healthPrice: 100
+    maxHealthPrice: 10
+    regionGapPrice: 10
+    maxHealthStage: 5
+    maxHealthMax: 5
+    regionGapStage: 5
+    regionGapMax: 5
+    maxHealthUp: 1
+    regionGapUp: 1
+  - id: 1
+    region: 2
+    nome: Cerca da casa
+    regionData: {fileID: 11400000, guid: 8df7de5d654500e4ca385ebc986defc0, type: 2}
+    healthPrice: 100
+    maxHealthPrice: 10
+    regionGapPrice: 10
+    maxHealthStage: 0
+    maxHealthMax: 5
+    regionGapStage: 0
+    regionGapMax: 5
+    maxHealthUp: 1
+    regionGapUp: 1
+  - id: 2
+    region: 3
+    nome: Ratoeiras
+    regionData: {fileID: 11400000, guid: 8df7de5d654500e4ca385ebc986defc0, type: 2}
+    healthPrice: 100
+    maxHealthPrice: 10
+    regionGapPrice: 10
+    maxHealthStage: 5
+    maxHealthMax: 5
+    regionGapStage: 5
+    regionGapMax: 5
+    maxHealthUp: 1
+    regionGapUp: 1
+  - id: 3
+    region: 4
+    nome: Gerador
+    regionData: {fileID: 11400000, guid: 8df7de5d654500e4ca385ebc986defc0, type: 2}
+    healthPrice: 100
+    maxHealthPrice: 10
+    regionGapPrice: 10
+    maxHealthStage: 2
+    maxHealthMax: 5
+    regionGapStage: 0
+    regionGapMax: 5
+    maxHealthUp: 1
+    regionGapUp: 1
+  - id: 4
+    region: 5
+    nome: Aquecedor
+    regionData: {fileID: 11400000, guid: 8df7de5d654500e4ca385ebc986defc0, type: 2}
+    healthPrice: 100
+    maxHealthPrice: 10
+    regionGapPrice: 10
+    maxHealthStage: 0
+    maxHealthMax: 5
+    regionGapStage: 0
+    regionGapMax: 5
+    maxHealthUp: 1
+    regionGapUp: 1
+  - id: 5
+    region: 6
+    nome: Composteira
+    regionData: {fileID: 11400000, guid: 8df7de5d654500e4ca385ebc986defc0, type: 2}
+    healthPrice: 100
+    maxHealthPrice: 10
+    regionGapPrice: 10
+    maxHealthStage: 0
+    maxHealthMax: 5
+    regionGapStage: 0
+    regionGapMax: 5
+    maxHealthUp: 1
+    regionGapUp: 1
+  - id: 6
+    region: 7
+    nome: Caixa d agua rodoluvio
+    regionData: {fileID: 11400000, guid: 8df7de5d654500e4ca385ebc986defc0, type: 2}
+    healthPrice: 100
+    maxHealthPrice: 10
+    regionGapPrice: 10
+    maxHealthStage: 0
+    maxHealthMax: 5
+    regionGapStage: 0
+    regionGapMax: 5
+    maxHealthUp: 1
+    regionGapUp: 1
+  - id: 7
+    region: 8
+    nome: Caixa d agua aviario
+    regionData: {fileID: 11400000, guid: 8df7de5d654500e4ca385ebc986defc0, type: 2}
+    healthPrice: 100
+    maxHealthPrice: 10
+    regionGapPrice: 10
+    maxHealthStage: 0
+    maxHealthMax: 5
+    regionGapStage: 0
+    regionGapMax: 5
+    maxHealthUp: 1
+    regionGapUp: 1
+  - id: 8
+    region: 9
+    nome: Silo A
+    regionData: {fileID: 11400000, guid: 8df7de5d654500e4ca385ebc986defc0, type: 2}
+    healthPrice: 100
+    maxHealthPrice: 10
+    regionGapPrice: 10
+    maxHealthStage: 0
+    maxHealthMax: 5
+    regionGapStage: 0
+    regionGapMax: 5
+    maxHealthUp: 1
+    regionGapUp: 1
+  - id: 9
+    region: 10
+    nome: Silo B
+    regionData: {fileID: 11400000, guid: 8df7de5d654500e4ca385ebc986defc0, type: 2}
+    healthPrice: 100
+    maxHealthPrice: 10
+    regionGapPrice: 10
+    maxHealthStage: 0
+    maxHealthMax: 5
+    regionGapStage: 0
+    regionGapMax: 5
+    maxHealthUp: 1
+    regionGapUp: 1
+  datasDefault:
+  - id: 0
+    region: 1
+    nome: Cerca do aviario
+    regionData: {fileID: 11400000, guid: 8df7de5d654500e4ca385ebc986defc0, type: 2}
+    healthPrice: 100
+    maxHealthPrice: 10
+    regionGapPrice: 10
+    maxHealthStage: 5
+    maxHealthMax: 5
+    regionGapStage: 5
+    regionGapMax: 5
+    maxHealthUp: 1
+    regionGapUp: 1
+  - id: 1
+    region: 2
+    nome: Cerca da casa
+    regionData: {fileID: 11400000, guid: 8df7de5d654500e4ca385ebc986defc0, type: 2}
+    healthPrice: 100
+    maxHealthPrice: 10
+    regionGapPrice: 10
+    maxHealthStage: 0
+    maxHealthMax: 5
+    regionGapStage: 0
+    regionGapMax: 5
+    maxHealthUp: 1
+    regionGapUp: 1
+  - id: 2
+    region: 3
+    nome: Ratoeiras
+    regionData: {fileID: 11400000, guid: 8df7de5d654500e4ca385ebc986defc0, type: 2}
+    healthPrice: 100
+    maxHealthPrice: 10
+    regionGapPrice: 10
+    maxHealthStage: 5
+    maxHealthMax: 5
+    regionGapStage: 5
+    regionGapMax: 5
+    maxHealthUp: 1
+    regionGapUp: 1
+  - id: 3
+    region: 4
+    nome: Gerador
+    regionData: {fileID: 11400000, guid: 8df7de5d654500e4ca385ebc986defc0, type: 2}
+    healthPrice: 100
+    maxHealthPrice: 10
+    regionGapPrice: 10
+    maxHealthStage: 2
+    maxHealthMax: 5
+    regionGapStage: 0
+    regionGapMax: 5
+    maxHealthUp: 1
+    regionGapUp: 1
+  - id: 4
+    region: 5
+    nome: Aquecedor
+    regionData: {fileID: 11400000, guid: 8df7de5d654500e4ca385ebc986defc0, type: 2}
+    healthPrice: 100
+    maxHealthPrice: 10
+    regionGapPrice: 10
+    maxHealthStage: 0
+    maxHealthMax: 5
+    regionGapStage: 0
+    regionGapMax: 5
+    maxHealthUp: 1
+    regionGapUp: 1
+  - id: 5
+    region: 6
+    nome: Composteira
+    regionData: {fileID: 11400000, guid: 8df7de5d654500e4ca385ebc986defc0, type: 2}
+    healthPrice: 100
+    maxHealthPrice: 10
+    regionGapPrice: 10
+    maxHealthStage: 0
+    maxHealthMax: 5
+    regionGapStage: 0
+    regionGapMax: 5
+    maxHealthUp: 1
+    regionGapUp: 1
+  - id: 6
+    region: 7
+    nome: Caixa d agua rodoluvio
+    regionData: {fileID: 11400000, guid: 8df7de5d654500e4ca385ebc986defc0, type: 2}
+    healthPrice: 100
+    maxHealthPrice: 10
+    regionGapPrice: 10
+    maxHealthStage: 0
+    maxHealthMax: 5
+    regionGapStage: 0
+    regionGapMax: 5
+    maxHealthUp: 1
+    regionGapUp: 1
+  - id: 7
+    region: 8
+    nome: Caixa d agua aviario
+    regionData: {fileID: 11400000, guid: 8df7de5d654500e4ca385ebc986defc0, type: 2}
+    healthPrice: 100
+    maxHealthPrice: 10
+    regionGapPrice: 10
+    maxHealthStage: 0
+    maxHealthMax: 5
+    regionGapStage: 0
+    regionGapMax: 5
+    maxHealthUp: 1
+    regionGapUp: 1
+  - id: 8
+    region: 9
+    nome: Silo A
+    regionData: {fileID: 11400000, guid: 8df7de5d654500e4ca385ebc986defc0, type: 2}
+    healthPrice: 100
+    maxHealthPrice: 10
+    regionGapPrice: 10
+    maxHealthStage: 0
+    maxHealthMax: 5
+    regionGapStage: 0
+    regionGapMax: 5
+    maxHealthUp: 1
+    regionGapUp: 1
+  - id: 9
+    region: 10
+    nome: Silo B
+    regionData: {fileID: 11400000, guid: 8df7de5d654500e4ca385ebc986defc0, type: 2}
+    healthPrice: 100
+    maxHealthPrice: 10
+    regionGapPrice: 10
+    maxHealthStage: 0
+    maxHealthMax: 5
+    regionGapStage: 0
+    regionGapMax: 5
+    maxHealthUp: 1
+    regionGapUp: 1
+  setDefaultValues: 0

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3adefe8844ee81c4c91fd6ee98ff4f2d, type: 3}
+  m_Name: GQuestion12
+  m_EditorClassIdentifier: 
+  question: "Al\xE9m do avi\xE1rio estar rodeado por \xE1rvores n\xE3o frut\xEDferas,
+    as quais servem de barreira de prote\xE7\xE3o \xE0s depend\xEAncias do avi\xE1rio,
+    tamb\xE9m \xE9 necess\xE1rio a constru\xE7\xE3o de cerca de isolamento. "
+  answers:
+  - Sim.
+  - "N\xE3o."
+  - Nenhum.
+  itIsCorrect: Sim.
+  justification: "Sim! Al\xE9m do avi\xE1rio estar rodeado por \xE1rvores n\xE3o
+    frut\xEDferas, as quais servem de barreira de prote\xE7\xE3o \xE0s depend\xEAncias
+    do avi\xE1rio, tamb\xE9m \xE9 necess\xE1rio a constru\xE7\xE3o de cerca de isolamento. "

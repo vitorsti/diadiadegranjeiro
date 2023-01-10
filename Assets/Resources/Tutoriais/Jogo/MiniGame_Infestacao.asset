@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8a049b5b44b76b4bb2353f1e2131fe8, type: 3}
+  m_Name: MiniGame_Infestacao
+  m_EditorClassIdentifier: 
+  datas:
+  - name: 
+    description: Ratos! Ratos para todos os lados! Como chegamos a esse ponto?
+    image: {fileID: 0}
+    video: {fileID: 0}
+    id: 0
+    videoOrImage: 2
+    enablePointer: 0
+    pointer: {fileID: 0}
+    pointerPosition: {x: 0, y: 0, z: 0}
+    useCustomPosition: 0
+    customPosition: {x: 0, y: 0, z: 0}
+  - name: 
+    description: "Precisamos ca\xE7\xE1-los um a um! Eles podem trazer doen\xE7as
+      para os frangos!"
+    image: {fileID: 21300000, guid: e3cdfb03b5d638a4abe467ce86184489, type: 3}
+    video: {fileID: 0}
+    id: 1
+    videoOrImage: 1
+    enablePointer: 0
+    pointer: {fileID: 0}
+    pointerPosition: {x: 0, y: 0, z: 0}
+    useCustomPosition: 0
+    customPosition: {x: 0, y: 0, z: 0}
+  - name: 
+    description: "Se vir um rato pela fazenda, clique nele! Assim voc\xEA ter\xE1
+      pegado ele!"
+    image: {fileID: 0}
+    video: {fileID: 32900000, guid: bcf6474a0fbc31b43a5f206319a5aafd, type: 3}
+    id: 2
+    videoOrImage: 0
+    enablePointer: 0
+    pointer: {fileID: 0}
+    pointerPosition: {x: 0, y: 0, z: 0}
+    useCustomPosition: 0
+    customPosition: {x: 0, y: 0, z: 0}
+  - name: 
+    description: "Lembre-se de armar as ratoeiras! Assim evitamos que eles apare\xE7am
+      na granja!"
+    image: {fileID: 21300000, guid: 3a73685df6c66fa40b90e1d4fa4790de, type: 3}
+    video: {fileID: 0}
+    id: 3
+    videoOrImage: 1
+    enablePointer: 0
+    pointer: {fileID: 0}
+    pointerPosition: {x: 0, y: 0, z: 0}
+    useCustomPosition: 0
+    customPosition: {x: 0, y: 0, z: 0}
+  firstTime: 1
+  resetFistTime: 0

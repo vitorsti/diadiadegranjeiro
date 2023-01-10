@@ -1,0 +1,311 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 803e6b8aab20d274a87b2878ffc6d9f2, type: 3}
+  m_Name: TecnicalInformationData
+  m_EditorClassIdentifier: 
+  datas:
+  - name: Composteira
+    id: 0
+    description: "1. Composteira: \r\n<b>Import\xE2ncia:</b> A composteira \xE9 utilizada
+      para dar fim \xE0 mortalidade que ocorre normalmente em um plantel av\xEDcola.\r\n<b>O
+      que deve ser feito:</b> A composteira adequada leva em considera\xE7\xE3o os
+      materiais de qualidade utilizados na sua constru\xE7\xE3o para manuten\xE7\xE3o
+      da sua integridade, manuten\xE7\xE3o da mesma, dimensionamento proporcional
+      \xE0 capacidade m\xE1xima do avi\xE1rio, localiza\xE7\xE3o adequada na propriedade,
+      adequado fechamento para evitar que animais silvestres ou dom\xE9stico possam
+      ter contato com os materiais ali depositados (cama e carca\xE7as) e manejo
+      adequado para ocorrer efetivamente a compostagem (adi\xE7\xE3o de \xE1gua e
+      fonte de carbono).\r\n<b>Consequ\xEAncias:</b> dimensionamento incorreto/falta
+      de manuten\xE7\xE3o  rompimento da composteira  exposi\xE7\xE3o das carca\xE7as 
+      atrativo para animais selvagens/dom\xE9sticos irem se alimentar das carca\xE7as.
+      \r\n<b>Observa\xE7\xF5es:</b> deve ter pelo menos quatro divis\xF3rias para
+      receber as aves mortas durante o per\xEDodo de cria\xE7\xE3o, para a realiza\xE7\xE3o
+      da compostagem. O tamanho dessa composteira est\xE1 relacionada \xE0 capacidade
+      de alojamento da granja. Para um avi\xE1rio com alojamento de 15 mil frangos
+      tem sido recomendado que cada divis\xF3ria tenha pelo menos dimens\xF5es de
+      1,2mx1,5mx1,8m, respectivamente, para frente, profundidade e altura."
+    href: Composteira
+    browserTxt: https://www.embrapa.br/artigo_Composteira
+  - name: Silos
+    id: 1
+    description: "2. Silos: \r\n<b>Import\xE2ncia:</b> O silo (mais comum \xE9 o
+      met\xE1lico) se trata de uma estrutura suspensa, fechada e que teoricamente
+      n\xE3o permite a entrada de\_\xE1gua, e \xE9 utilizado para armazenamento da
+      ra\xE7\xE3o do frango de corte garantindo que a mesma esteja limpa, seca e
+      pr\xF3pria para o consumo das aves em at\xE9 3 dias. \r\n<b>O que deve ser
+      feito</b>: Sua adequada utiliza\xE7\xE3o leva em considera\xE7\xE3o os materiais
+      de qualidade utilizados na sua constru\xE7\xE3o e tamb\xE9m na funda\xE7\xE3o
+      (geralmente concreto), a limpeza interna (limpeza das paredes a cada novo recebimento
+      de ra\xE7\xE3o) e externa, dimensionamento correto para a capacidade do avi\xE1rio
+      (controle de estoque) e manuten\xE7\xE3o para que a ra\xE7\xE3o do silo seja
+      encaminhada aos comedouros sem vazamento de ra\xE7\xE3o.\r\nPara limpeza de
+      certos equipamentos (ex.: silos, misturador), deve haver o cuidado que eles
+      t\xEAm uma parte externa e uma parte interna ou est\xE3o contidos em calhas
+      ou em estruturas tubulares (ex.: roscas, redlers, elevadores). Especial aten\xE7\xE3o
+      deve ser dada \xE0 limpeza da parte interna, uma vez que \xE9 altamente suscept\xEDvel
+      ao ac\xFAmulo de poeira e res\xEDduos de produtos e ra\xE7\xE3o. Os silos devem
+      ser varridos internamente dentro de uma frequ\xEAncia pr\xE9-estabelecida.
+      Observar que a parte superior (c\xF4nica) dos silos \xE9 a mais cr\xEDtica
+      para acumular poeira e res\xEDduos. Periodicamente, raspar e/ ou escovar as
+      roscas e os elevadores e as respectivas partes que os cont\xEAm.\r\n<b>Consequ\xEAncias:</b>
+      Mal dimensionamento em considera\xE7\xE3o com capacidade do avi\xE1rio  falta
+      de ra\xE7\xE3o  animais estressados e perda produtiva no final da cadeia, aves
+      n\xE3o ganham peso.Mal dimensionamento em considera\xE7\xE3o com capacidade
+      do avi\xE1rio ou pode sobrar ra\xE7\xE3o  fazendo a mistura da ra\xE7\xE3o
+      velha com a nova sendo potencial para crescimento de microrganismos.A umidade
+      que h\xE1 no silo junto com a ra\xE7\xE3o velha auxilia na prolifera\xE7\xE3o
+      de fungos  doen\xE7a nas aves  perdas produtivas. A alimenta\xE7\xE3o do silo
+      pela ra\xE7\xE3o deve ser monitorada e feita a limpeza  sobras de ra\xE7\xE3o
+      fora do silo atrai aves silvestres, cascudinho (dentro e fora do avi\xE1rio)
+      e roedores  atrai outros animais ca\xE7adores das pestes  ambos trazem doen\xE7as
+      para o frango de corte  pode estragar cortinas dos avi\xE1rios  auxilia na
+      mortalidade ou necessidade de medica\xE7\xE3o extra."
+    href: Silos
+    browserTxt: https://www.embrapa.br/artigo_Silos
+  - name: Cercas
+    id: 2
+    description: "3. Cercas: \r\n<b>Import\xE2ncia:</b> A cerca \xE9 uma barreira
+      f\xEDsica utilizada para impedir a aproxima\xE7\xE3o de pessoas n\xE3o autorizadas
+      e animais silvestres/ dom\xE9sticos da propriedade e pr\xF3ximo ao avi\xE1rio
+      de frango de corte. Sua manuten\xE7\xE3o \xE9 de suma import\xE2ncia para a
+      biosseguran\xE7a da propriedade.\r\n<b>O que deve ser feito:</b> Cercar a \xE1rea
+      que abriga a granja, com tela de pelo menos 1,5m de altura para evitar o livre
+      acesso de pessoas, ve\xEDculos e outros animais. Essa cerca deve estar afastada
+      a, pelo menos, 20m das instala\xE7\xF5es.\r\n<b>Consequ\xEAncias:</b> A falta
+      de manuten\xE7\xE3o da cerca pode levar o seu rompimento em pontos pr\xF3ximos
+      ou n\xE3o do avi\xE1rio  entrada de pessoas para roubar a propriedade  entrada
+      de animais dom\xE9sticos ou silvestre pr\xF3ximo ao avi\xE1rio  estes animais
+      podem causar danos f\xEDsicos na propriedade (exemplo: rasgar cortina na inten\xE7\xE3o
+      de entrar no avi\xE1rio, danificar sistema de ventila\xE7\xE3o, bagun\xE7ar
+      materiais de uso di\xE1rio, revirar o lixo) e de biosseguran\xE7a (defecar
+      e trazer doen\xE7as \xE0 aves) trazer doen\xE7as ao frango de corte  adentrar
+      ao avi\xE1rio e consumir as aves  danificar a composteira e consumir as carca\xE7as
+      das aves  mortalidade das aves."
+    href: Cercas
+    browserTxt: https://www.embrapa.br/artigo_Cercas
+  - name: "Caixa d\u2019\xE1gua do arco rodol\xFAvio"
+    id: 3
+    description: "4. Caixa d\u2019\xE1gua do arco rodol\xFAvio\r\n<b>Import\xE2ncia:</b>
+      A caixa d\u2019\xE1gua do arco rodol\xFAvio \xE9 respons\xE1vel por armazenar
+      \xE1gua e desinfetante e alimentar o arco para promover a desinfec\xE7\xE3o
+      de maneira autom\xE1tica e integral dos ve\xEDculos que ir\xE3o entrar na propriedade
+      (propriet\xE1rio, funcion\xE1rios, t\xE9cnicos, caminh\xE3o de ra\xE7\xE3o
+      e de transporte das aves de chegada e sa\xEDda). Seu principal objetivo \xE9
+      evitar a passagem de doen\xE7as para dentro da propriedade causando a contamina\xE7\xE3o
+      por pat\xF3genos do frango de corte.\r\n<b>O que deve ser feito:</b> A caixa
+      d\u2019\xE1gua deve conter \xE1gua limpa, livre de impurezas, e desinfetante
+      dilu\xEDdo de acordo com o r\xF3tulo do produto utilizado para evitar que pat\xF3genos
+      entrem na propriedade causando doen\xE7as nas aves e perdas produtivas. O desinfetante
+      mais indicado s\xE3o os fen\xF3is halog\xEAnicos: cloro (em aus\xEAncia de
+      mat\xE9ria org\xE2nica), iodo (em aus\xEAncia de mat\xE9ria org\xE2nica) e
+      cres\xF3is. \r\n<b>Consequ\xEAncias:</b> A presen\xE7a de impurezas pode entupir
+      os bicos  algumas regi\xF5es do ve\xEDculo n\xE3o receber\xE1 o desinfetante 
+      pat\xF3genos que ter\xE3o acesso \xE0 propriedade (principais pat\xF3genos
+      s\xE3o Influenza avi\xE1ria, doen\xE7a de Newcastle, samoneloses e micoplasmoses).
+      Erro na dilui\xE7\xE3o do desinfetante com concentra\xE7\xE3o abaixo do adequado 
+      n\xE3o desinfec\xE7\xE3o do carro em caso de concentra\xE7\xE3o  contamina\xE7\xE3o
+      por pat\xF3genos nas aves. Erro na dilui\xE7\xE3o do desinfetante com concentra\xE7\xE3o
+      acima do adequado  danos na pintura do ve\xEDculo  entupimento dos bicos."
+    href: "Caixa_d\u2019\xE1gua_do_arco_rodol\xFAvio"
+    browserTxt: "https://www.embrapa.br/artigo_Caixa_d\u2019\xE1gua_do_arco_rodol\xFAvio"
+  - name: "Caixa d\u2019\xE1gua avi\xE1rio"
+    id: 4
+    description: "5. Caixa d\u2019\xE1gua avi\xE1rio\r\n<b>Import\xE2ncia:</b> A
+      caixa d\u2019\xE1gua do avi\xE1rio \xE9 respons\xE1vel por armazenar \xE1gua
+      e utiliz\xE1-la para 3 fins principais: \xE1gua de bebida das aves, \xE1gua
+      de vacina para as aves e para o sistema de resfriamento (painel evaporativo)
+      /limpeza do avi\xE1rio. \r\n<b>O que deve ser feito:</b> Seja qual for a finalidade,
+      a \xE1gua precisa estar limpa, livre de impurezas f\xEDsicas e org\xE2nicas,
+      clorada e pronta para o uso. Aten\xE7\xE3o, pois qualquer sujeira ocasiona
+      entupimento dos bicos dos nebulizadores influenciando na ambi\xEAncia e conforto
+      t\xE9rmico, j\xE1 o cloro evita o surgimento de algas no painel evaporativo.
+      \xC9 poss\xEDvel o uso de filtros que auxiliem na retirada das impurezas, bem
+      como no momento da vacina ou da limpeza utilizar os produtos dilu\xEDdos adequadamente
+      de forma que n\xE3o colem os bicos dos nipples. A manuten\xE7\xE3o \xE9 de
+      extrema import\xE2ncia em toda a instala\xE7\xE3o hidr\xE1ulica para a alimenta\xE7\xE3o
+      de \xE1gua correta garantindo que este recurso esteja \xE0 disposi\xE7\xE3o
+      das aves sempre. Outro aspecto \xE9 sua localiza\xE7\xE3o da caixa d\u2019\xE1gua
+      para manter a \xE1gua em temperatura adequada ao consumo das aves, de f\xE1cil
+      acesso para realizar a clora\xE7\xE3o, limpeza da caixa, verifica\xE7\xE3o
+      se est\xE1 tampada (evita que animais entrem para tomar \xE1gua, ou acabem
+      caindo e morrendo) e manuten\xE7\xE3o. A caixa d\u2019\xE1gua deve ser bem
+      dimensionada (se houver cortes de \xE1gua, n\xE3o prejudica a hidrata\xE7\xE3o
+      das aves) com utiliza\xE7\xE3o de cloro, corre\xE7\xE3o do pH da \xE1gua, manter
+      em local arejada, fresco e sem incid\xEAncia solar. \r\n<b>Consequ\xEAncias:</b>
+      N\xE3o manuten\xE7\xE3o da caixa d\u2019\xE1gua  romper cano  dificuldade na
+      alimenta\xE7\xE3o dos nipples que hidratam as aves\r\nN\xE3o manuten\xE7\xE3o
+      da caixa d\u2019\xE1gua  tampa da caixa quebrou e n\xE3o foi concertada ou
+      reposta  animais silvestres bebendo \xE1gua direto na caixa d\u2019\xE1gua 
+      pode um cair e morrer  oferecimento de \xE1gua com animal em putrefa\xE7\xE3o
+      problemas de doen\xE7as nas aves  perda produtiva.\r\nDimensionamento equivocado 
+      em um problema de abastecimento da caixa d\u2019\xE1gua esta n\xE3o ser\xE1
+      suficiente para as atividades  animal desidratado\r\nA clora\xE7\xE3o realizada
+      de maneira inadequada  surgimento de algas no painel evaporativo  reduz a vida
+      \xFAtil do painel  n\xE3o deixa o painel cumprir sua fun\xE7\xE3o de resfriar
+      o ar  ambi\xEAncia t\xE9rmica comprometida  estresse t\xE9rmico  queda na produtividade
+      do frango.\r\nImpurezas f\xEDsicas  entupimento dos bicos nebulizadores e nipples 
+      m\xE1 ambi\xEAncia  aves sentir\xE3o calor  e n\xE3o conseguir\xE3o se alimentar
+      pelo entupimento dos bicos dos nipples.\r\nInser\xE7\xE3o de desinfetante para
+      limpeza dos nipples com dilui\xE7\xE3o errada  cola dos nipples  alojamento
+      de aves sem conseguir hidrata\xE7\xE3o  mortalidade e redu\xE7\xE3o da qualidade
+      do lote."
+    href: "Caixa_d\u2019\xE1gua_avi\xE1rio"
+    browserTxt: "https://www.embrapa.br/artigo_Caixa_d\u2019\xE1gua_avi\xE1rio"
+  - name: Aquecedor
+    id: 5
+    description: "6. Aquecedor\r\n<b>Import\xE2ncia:<b> Os aquecedores s\xE3o utilizados
+      para aquecer o ambiente enquanto as aves n\xE3o apresentem o sistema de homeotermia
+      t\xE3o bem desenvolvido, ou seja, a capacidade da ave de manter a sua temperatura
+      interna \xE0 aproximadamente 41\xB0C. Normalmente utilizado entre o primeiro
+      dia at\xE9 21 dias de idade, dependendo da esta\xE7\xE3o do ano em que as aves
+      foram alojadas.\r\n<b>O que deve ser feito:<b> Os aquecedores devem ser dimensionados
+      para a situa\xE7\xE3o de menor temperatura registrada em 10 anos na regi\xE3o
+      e levar em considera\xE7\xE3o a capacidade do avi\xE1rio (quantidade de aves
+      e \xE1rea que ser\xE1 aquecida) independente do aquecedor que ser\xE1 utilizado.
+      Al\xE9m do aquecedor, este processo envolver a prote\xE7\xE3o dos pintos contra
+      correntes de ar, para tanto s\xE3o feito os c\xEDrculos de prote\xE7\xE3o,
+      para concentrar o calor em uma \xE1rea menor economizando com aquecimento,
+      e tamb\xE9m realizar renova\xE7\xE3o de ar. Existem os aquecedores el\xE9tricos,
+      camp\xE2nulas a lenha, camp\xE2nulas infravermelho \xE0 g\xE1s e aquecedor
+      de ar for\xE7ado e at\xE9 mesmo \xE0 diesel. Independente da escolha, a temperatura
+      e a qualidade do ar devem estar adequado a produ\xE7\xE3o de frango de corte,
+      para isso a manuten\xE7\xE3o deve ser realizada antes do alojamento das aves,
+      e a verifica\xE7\xE3o constante do granjeiro do comportamento das aves (se
+      est\xE1 com frio e calor) \xE9 o que vai garantir um adequado manejo nesta
+      fase inicial. O dep\xF3sito de lenha deve ser localizado perto do avi\xE1rio,
+      limpo e bem arejado para evitar de transformar-se em um criat\xF3rio de ratos.\r\n<b>Consequ\xEAncias:<b>
+      Falta de manuten\xE7\xE3o ou falta de combust\xEDvel  aquecedor p\xE1ra de
+      funcionar em noite de inverno  granjeiro n\xE3o verifica  aves ficam com frio 
+      se agrupam dentro do c\xEDrculo de prote\xE7\xE3o  n\xE3o comem e n\xE3o bebem 
+      desidrata\xE7\xE3o e baixo ganho de peso  imunidade baixa  perdas produtivas
+      por mortalidade. Aquecimento sem manuten\xE7\xE3o  aquecedor aumenta a temperatura
+      acima do ideal  granjeiro saiu para fazer outra atividade  aves com calor bebem
+      \xE1gua  diarr\xE9ia  desidrata\xE7\xE3o  perdas produtivas por mortalidade.
+      Dep\xF3sito de lenha feito em local escuro e de pouca troca de ar  criat\xF3rio
+      de ratos  ratos entram no galp\xE3o  alimentam-se da ra\xE7\xE3o e da \xE1gua
+      do frango de corte  disseminam doen\xE7as  danificam os equipamentos do avi\xE1rios
+      (roem cortinhas e fios, quem sabe pode ocorrer um curto circuito)  perda produtiva."
+    href: Aquecedor
+    browserTxt: https://www.embrapa.br/artigo_Aquecedor
+  - name: Gerador
+    id: 6
+    description: "7. Gerador\r\n<b>Import\xE2ncia:</b> O gerador \xE9 um equipamento
+      de extrema import\xE2ncia nos avi\xE1rios climatizados uma vez que sua falta
+      pode comprometer a produ\xE7\xE3o com a mortalidade de um n\xFAmero grande
+      de aves, podendo ocorrer preju\xEDzos significativos, tanto para o produtor
+      quanto para a agroind\xFAstria integradora. As novas constru\xE7\xF5es rurais
+      utilizam materiais de isolamento e sistema de ventila\xE7\xE3o capazes de ambientar
+      o avi\xE1rio quase independente das condi\xE7\xF5es clim\xE1ticas externas,
+      no entanto estas constru\xE7\xF5es s\xE3o dependentes da energia el\xE9trica,
+      e no risco de faltar pela compania de energia, \xE9 necess\xE1rio o acionamento
+      dos geradores que estejam em boa conserva\xE7\xE3o, manuten\xE7\xE3o e que
+      funcionem quando da sua necessidade.\r\n<b>O que deve ser feito:</b> Os geradores
+      de energia el\xE9trica demandam manuten\xE7\xE3o constante, teste de funcionamento
+      constante e estar com combust\xEDvel adequado (quantidade e qualidade) para
+      seu funcionamento de pronto quando solicitado.\r\n<b>Consequ\xEAncias:</b>
+      Faltou energia el\xE9trica da compania de luz  acionamento dos geradores  sem
+      manuten\xE7\xE3o ou sem combust\xEDvel ou sem teste  n\xE3o conseguir\xE3o
+      ligar  dentro do avi\xE1rio o ar vai ficar sem renova\xE7\xE3o e sem resfriamento 
+      estresse t\xE9rmico por calor e ac\xFAmulo de gases  perda de ganho de peso 
+      mortalidade.\r\n<b>Observa\xE7\xF5es:</b> com dimens\xF5es aproximadas de 4mx6m
+      (24m2\_de \xE1rea) e altura de 3m deve ser constru\xEDda para servir de local
+      (base) para instala\xE7\xE3o de um gerador de energia el\xE9trica (capacidade
+      dependente do tamanho da granja). Essa instala\xE7\xE3o \xE9 recomendada principalmente
+      em sistemas de produ\xE7\xE3o climatizados."
+    href: Gerador
+    browserTxt: https://www.embrapa.br/artigo_Gerador
+  - name: "Escrit\xF3rio/vesti\xE1rio "
+    id: 7
+    description: "8. Escrit\xF3rio/vesti\xE1rio\r\n<b>Import\xE2ncia:</b> O escrit\xF3rio
+      e vesti\xE1rio s\xE3o utilizados como fronteira para controle de acesso de
+      pessoas que entrem no per\xEDmetro do avi\xE1rio (trabalhadores da granja,
+      visitantes t\xE9cnicos e equipes de carregamento) e ve\xEDculos. No escrit\xF3rio
+      est\xE1 todo o controle administrativo referente ao avi\xE1rio (documenta\xE7\xE3o
+      do avi\xE1rio e lotes produzidos).\r\n<b>O que deve ser feito:</b> Utilizar
+      a portaria como \xFAnico local de acesso de pessoas \xE0 granja. Construir
+      a portaria, com escrit\xF3rio e banheiro junto \xE0 cerca que contorna a granja,
+      numa posi\xE7\xE3o que permita controlar a circula\xE7\xE3o de pessoas e ve\xEDculos.
+      O banheiro deve possuir uma \xE1rea suja, chuveiro e uma \xE1rea limpa, onde
+      devem ficar as roupas e botas da granja para que o fluxo entre as \xE1reas
+      seja poss\xEDvel apenas pelo chuveiro. Uma sala com mesa e cadeiras, e um arquivo
+      para manter a documenta\xE7\xE3o do avi\xE1rio e lotes produzidos. Al\xE9m
+      disso um arm\xE1rio para guardar botas, aventais, macac\xF5es e outros EPIs.
+      Dependendo do tamanho da granja, torna-se necess\xE1rio a constru\xE7\xE3o
+      de uma cantina, anexo a portaria, para refei\xE7\xF5es dos funcion\xE1rios.
+      Quando visita de pessoas autorizadas, estas devem preencher um livro constando
+      nome, documento, dados do ve\xEDculo, data e \xFAltimo local onde esteve.\r\n<b>Consequ\xEAncias:</b>
+      pessoas n\xE3o autorizadas tentar\xE3o entrar sem sucesso  defeito no controle
+      ou treinamento dos funcion\xE1rios com problema pessoas sem vazio sanit\xE1rio
+      ou desautorizadas entrar\xE3o  poss\xEDvel contagio de doen\xE7as dessas pessoas
+      para as aves. \r\n<b>Observa\xE7\xE3o:</b> Todas as pessoas que trabalham e
+      que necessitam entrar nas granjas e nos avi\xE1rios devem seguir os procedimentos
+      como: averiguar com o respons\xE1vel por da granja se pode entrar no local;
+      registrar o nome no livro de controle de entrada; e no caso de visitantes,
+      responder um question\xE1rio para permitir a entrada."
+    href: "Escrit\xF3rio/vesti\xE1rio_"
+    browserTxt: "https://www.embrapa.br/artigo_Escrit\xF3rio/vesti\xE1rio_"
+  - name: Iscas e ratoeiras
+    id: 8
+    description: "9. Iscas e ratoeiras\r\n<b>Import\xE2ncia:</b> Os ratos podem ser
+      transmissores de pat\xF3genos que causam problemas na sanidade das aves, que
+      destacamos as salmonelas, e que podem ser um desastre para as aves. O risco
+      pode ser pela chegada de ratos de outras granjas ou avi\xE1rios e ou pela dissemina\xE7\xE3o
+      da contamina\xE7\xE3o via fezes na ra\xE7\xE3o. \r\n<b>O que deve ser feito:</b>
+      Devemos monitorar os roedores para manter a infesta\xE7\xE3o a n\xEDveis muito
+      baixos e/ou, se poss\xEDvel, evitar a presen\xE7a dos mesmos. Para isso, devemos
+      usar raticidas a cada 15 dias em pontos fixos e numerados, para que em cada
+      monitoramento seja poss\xEDvel determinar o consumo e ou a presen\xE7a dos
+      ratos. Um programa de controle de roedores eficaz envolve tr\xEAs \xE1reas
+      de atividade: - Preven\xE7\xE3o \u2013 n\xE3o atrair os roedores, manter ambientes
+      limpos e sem entulhos; - Monitoramento \u2013 procurar sinais que indiquem
+      a presen\xE7a de roedores (n\xE3o v\xEA-los n\xE3o significa que n\xE3o estejam
+      l\xE1!) e identificar a esp\xE9cie; - Controle \u2013 determinar estrategicamente
+      os pontos de coloca\xE7\xE3o das iscas e a quantidade de produtos a serem colocados,
+      utilizar rodenticidas para eliminar as pragas e impedir que as popula\xE7\xF5es
+      cres\xE7am. A desratiza\xE7\xE3o \xE9 uma medida f\xEDsica aplicada \xE0 elimina\xE7\xE3o
+      de roedores, podendo ser por m\xE9todos mec\xE2nicos, biol\xF3gicos e qu\xEDmicos.
+      Devido \xE0 maior seguran\xE7a e efic\xE1cia, o m\xE9todo qu\xEDmico \xE9 o
+      mais utilizado. Os porta iscas podem ser do tipo caixas especificas, como a
+      figura abaixo e/ou canos de PVC de 100mm com 50cm de comprimento. Os roedores
+      t\xEAm h\xE1bitos de se alimentarem e demarcarem alimentos e territ\xF3rios
+      atrav\xE9s da urina e fezes, por isso os porta iscas devem estar limpos e as
+      iscas devem estar suspensas, n\xE3o devem entrar em contato com a base do porta-iscas,
+      pois onde as iscas n\xE3o ficam suspensas, h\xE1 disposi\xE7\xE3o de excrementos
+      sobre elas, o que reduz a sua atratividade.\r\n<b>Consequ\xEAncias:</b> Se
+      houver ratos na propriedade  danos f\xEDsicos nas cortinas, fios  prolifera\xE7\xE3o
+      em locais escuros, arejados e de pouco manuseio como monte de lenha  entrada
+      de rato no avi\xE1rio para consumo da ra\xE7\xE3o e \xE1gua (Convers\xE3o alimentar
+      calculada das aves maior, ou seja, preju\xEDzo para o produtor)  dissemina\xE7\xE3o
+      de doen\xE7as  perdas produtivas  mortalidade  situa\xE7\xE3o mais cr\xEDtica 
+      necessidade de eliminar o lote por falta de biosseguridade.\r\n<b>Observa\xE7\xF5es:</b>
+      controle de insetos  O uso de produtos inseticidas (adulticidas e larvicidas)
+      devem ser intensos no per\xEDodo de vazio sanit\xE1rio, e nos demais per\xEDodos
+      devemos um controle com aplica\xE7\xF5es a cada 15 dias para evitar um crescimento
+      da popula\xE7\xE3o de insetos."
+    href: Iscas_e_ratoeiras
+    browserTxt: https://www.embrapa.br/artigo_Iscas_e_ratoeiras
+  - name: "Vacina\xE7\xE3o"
+    id: 9
+    description: "10. Vacina\xE7\xE3o\r\n\xC9 necess\xE1rio seguir o calend\xE1rio
+      e o programa de vacina\xE7\xF5es que foi estabelecido pelo veterin\xE1rio,
+      pois as vacinas a serem aplicadas est\xE3o conforme o hist\xF3rico e os desafios
+      da regi\xE3o. O funcion\xE1rio encarregado pela equipe de vacina\xE7\xE3o deve
+      ter um conhecimento das vacinas (dose, forma de aplica\xE7\xE3o, intervalos
+      entre as vacinas etc.). Utilize sempre material desinfetado, como seringas
+      e agulhas limpas e esterilizadas por temperatura. Devemos registrar todos os
+      dados pertinentes, como a data de vacina\xE7\xE3o, o lote da vacina, tipo de
+      vacina e data de validade.\r\nConserve as vacinas em temperatura adequada e
+      recomendada pelo fabricante. No caso de vacina\xE7\xE3o em spray, devemos interromper
+      a ventila\xE7\xE3o do avi\xE1rio durante a vacina\xE7\xE3o e no caso de vacina\xE7\xE3o
+      na \xE1gua de bebida, usar \xE1gua sem cloro ou desinfetantes."
+    href: "Vacina\xE7\xE3o"
+    browserTxt: "https://www.embrapa.br/artigo_Vacina\xE7\xE3o"

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3adefe8844ee81c4c91fd6ee98ff4f2d, type: 3}
+  m_Name: GQuestion21
+  m_EditorClassIdentifier: 
+  question: "Quanto aos tipos de aquecedores recomenda-se preferencialmente a ado\xE7\xE3o
+    de aquecedores a g\xE1s e a lenha"
+  answers:
+  - Nenhum.
+  - "N\xE3o."
+  - Sim.
+  itIsCorrect: Sim.
+  justification: "Sim! Essas op\xE7\xF5es s\xE3o as mais acess\xEDveis, entretanto
+    \xE9 necess\xE1rio salientar a necessidade de avaliar a localiza\xE7\xE3o e microclima
+    do avi\xE1rio"

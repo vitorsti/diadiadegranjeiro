@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8a049b5b44b76b4bb2353f1e2131fe8, type: 3}
+  m_Name: MiniGame_SiloMegaCos
+  m_EditorClassIdentifier: 
+  datas:
+  - name: 
+    description: "Mas que caos! Isso est\xE1 fora de controle! Precisamos resolver
+      isso com urg\xEAncia!"
+    image: {fileID: 0}
+    video: {fileID: 0}
+    id: 0
+    videoOrImage: 2
+    enablePointer: 0
+    pointer: {fileID: 0}
+    pointerPosition: {x: 0, y: 0, z: 0}
+    useCustomPosition: 0
+    customPosition: {x: 0, y: 0, z: 0}
+  - name: 
+    description: "Os gr\xE3os se acumularam muito e o silo est\xE1 transbordando!
+      Colete-os antes que eles caiam no ch\xE3o!"
+    image: {fileID: 21300000, guid: 0a0c198246970f04e9470fc9d0e4f754, type: 3}
+    video: {fileID: 0}
+    id: 1
+    videoOrImage: 1
+    enablePointer: 0
+    pointer: {fileID: 0}
+    pointerPosition: {x: 0, y: 0, z: 0}
+    useCustomPosition: 0
+    customPosition: {x: 0, y: 0, z: 0}
+  - name: 
+    description: "Use o cesto! Segure e arraste ele para os lados da tela, assim
+      voc\xEA poder\xE1 coletar os gr\xE3os!"
+    image: {fileID: 0}
+    video: {fileID: 32900000, guid: f3884779d3f3e324b991fb3a775d7d80, type: 3}
+    id: 2
+    videoOrImage: 0
+    enablePointer: 0
+    pointer: {fileID: 0}
+    pointerPosition: {x: 0, y: 0, z: 0}
+    useCustomPosition: 0
+    customPosition: {x: 0, y: 0, z: 0}
+  - name: 
+    description: "Precisamos ser r\xE1pidos agora!"
+    image: {fileID: 0}
+    video: {fileID: 0}
+    id: 3
+    videoOrImage: 2
+    enablePointer: 0
+    pointer: {fileID: 0}
+    pointerPosition: {x: 0, y: 0, z: 0}
+    useCustomPosition: 0
+    customPosition: {x: 0, y: 0, z: 0}
+  firstTime: 1
+  resetFistTime: 0

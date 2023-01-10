@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3adefe8844ee81c4c91fd6ee98ff4f2d, type: 3}
+  m_Name: GQuestion24
+  m_EditorClassIdentifier: 
+  question: "Existem no mercado poucos tipos de aquecedores \xE0 g\xE1s, com diversas
+    concep\xE7\xF5es quanto \xE0 forma de transmitir calor, \xE0s maneiras de instala\xE7\xE3o
+    e aos meios de controle da temperatura de opera\xE7\xE3o."
+  answers:
+  - Verdadeiro.
+  - Falso.
+  - Nenhum
+  itIsCorrect: Falso.
+  justification: "Falso! Existem v\xE1rios tipos de aquecedor \xE0 g\xE1s no mercado."

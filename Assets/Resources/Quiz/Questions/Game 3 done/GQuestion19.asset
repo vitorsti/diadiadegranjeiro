@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3adefe8844ee81c4c91fd6ee98ff4f2d, type: 3}
+  m_Name: GQuestion19
+  m_EditorClassIdentifier: 
+  question: "A IN 56 de 2007 exigia que a cada tr\xEAs anos os estabelecimentos av\xEDcolas
+    realizassem a an\xE1lise f\xEDsica, qu\xEDmica e microbiol\xF3gica da \xE1gua,
+    e quando necess\xE1rio fazer o tratamento. Entretanto, a IN 56 de 2007 foi alterada
+    pela a IN 36 de 2012 que exige apenas a an\xE1lise microbiol\xF3gica anual da
+    \xE1gua"
+  answers:
+  - Nenhum.
+  - Verdadeiro.
+  - Falso.
+  itIsCorrect: Falso.
+  justification: "Falso, IN 56 de 2007 exigia que anualmente os estabelecimentos
+    av\xEDcolas realizassem a an\xE1lise f\xEDsica, qu\xEDmica e microbiol\xF3gica."

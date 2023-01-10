@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8a049b5b44b76b4bb2353f1e2131fe8, type: 3}
+  m_Name: MiniGame_Contaminacao
+  m_EditorClassIdentifier: 
+  datas:
+  - name: 
+    description: "Parece que n\xE3o havia \xE1gua o suficiente na caixa d'\xE1gua
+      do rodoluvel!"
+    image: {fileID: 0}
+    video: {fileID: 0}
+    id: 0
+    videoOrImage: 2
+    enablePointer: 0
+    pointer: {fileID: 0}
+    pointerPosition: {x: 0, y: 0, z: 0}
+    useCustomPosition: 0
+    customPosition: {x: 0, y: 0, z: 0}
+  - name: 
+    description: "O caminh\xE3o deixou um caminho de contamina\xE7\xE3o por onde
+      passou!"
+    image: {fileID: 21300000, guid: bed816e8ca1df234b84073fcc99b6b1e, type: 3}
+    video: {fileID: 0}
+    id: 1
+    videoOrImage: 1
+    enablePointer: 0
+    pointer: {fileID: 0}
+    pointerPosition: {x: 0, y: 0, z: 0}
+    useCustomPosition: 0
+    customPosition: {x: 0, y: 0, z: 0}
+  - name: 
+    description: "Clique na sinaliza\xE7\xE3o laranja para limpar a contamina\xE7\xE3o!"
+    image: {fileID: 0}
+    video: {fileID: 32900000, guid: ce1710dd09c5be2448b3cec7188809be, type: 3}
+    id: 2
+    videoOrImage: 0
+    enablePointer: 0
+    pointer: {fileID: 0}
+    pointerPosition: {x: 0, y: 0, z: 0}
+    useCustomPosition: 0
+    customPosition: {x: 0, y: 0, z: 0}
+  - name: 
+    description: "Lembre-se devemos sempre tomar cuidado com a sa\xFAde dos frangos!"
+    image: {fileID: 0}
+    video: {fileID: 0}
+    id: 3
+    videoOrImage: 2
+    enablePointer: 0
+    pointer: {fileID: 0}
+    pointerPosition: {x: 0, y: 0, z: 0}
+    useCustomPosition: 0
+    customPosition: {x: 0, y: 0, z: 0}
+  firstTime: 1
+  resetFistTime: 0

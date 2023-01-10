@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8a049b5b44b76b4bb2353f1e2131fe8, type: 3}
+  m_Name: MiniGame_Ratoeira
+  m_EditorClassIdentifier: 
+  datas:
+  - name: 
+    description: "As ratoeiras v\xE3o nos ajudar a impedir que roedores venham at\xE9
+      o alimento do silo!"
+    image: {fileID: 21300000, guid: e3cdfb03b5d638a4abe467ce86184489, type: 3}
+    video: {fileID: 0}
+    id: 0
+    videoOrImage: 1
+    enablePointer: 0
+    pointer: {fileID: 0}
+    pointerPosition: {x: 0, y: 0, z: 0}
+    useCustomPosition: 0
+    customPosition: {x: 0, y: 0, z: 0}
+  - name: 
+    description: "Devemos sempre rearmar elas, para que a infesta\xE7\xE3o n\xE3o
+      aconte\xE7a!"
+    image: {fileID: 21300000, guid: 3a73685df6c66fa40b90e1d4fa4790de, type: 3}
+    video: {fileID: 0}
+    id: 1
+    videoOrImage: 1
+    enablePointer: 0
+    pointer: {fileID: 0}
+    pointerPosition: {x: 0, y: 0, z: 0}
+    useCustomPosition: 0
+    customPosition: {x: 0, y: 0, z: 0}
+  - name: 
+    description: Basta deslizar o dedo no marcador logo a baixo dela, isso ira colocar
+      uma ratoeira nova!
+    image: {fileID: 0}
+    video: {fileID: 32900000, guid: 978934cb788c4b240bbad17a6846423a, type: 3}
+    id: 2
+    videoOrImage: 0
+    enablePointer: 0
+    pointer: {fileID: 0}
+    pointerPosition: {x: 0, y: 0, z: 0}
+    useCustomPosition: 0
+    customPosition: {x: 0, y: 0, z: 0}
+  - name: 
+    description: "N\xE3o fa\xE7a movimentos t\xE3o lentos, isso pode acabar fazendo
+      com que ela prenda seu dedo!"
+    image: {fileID: 0}
+    video: {fileID: 0}
+    id: 3
+    videoOrImage: 2
+    enablePointer: 0
+    pointer: {fileID: 0}
+    pointerPosition: {x: 0, y: 0, z: 0}
+    useCustomPosition: 0
+    customPosition: {x: 0, y: 0, z: 0}
+  firstTime: 1
+  resetFistTime: 0

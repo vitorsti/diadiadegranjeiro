@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3adefe8844ee81c4c91fd6ee98ff4f2d, type: 3}
+  m_Name: GQuestion6
+  m_EditorClassIdentifier: 
+  question: "A utiliza\xE7\xE3o da composteira vem sendo aplicada amplamente nas
+    propriedades av\xEDcolas com o principal objetivo de:"
+  answers:
+  - Armazenar cama de frango utilizada
+  - "Realizar a compostagem da cama de frango do avi\xE1rio"
+  - "Armazenar as carca\xE7as das aves mortas "
+  itIsCorrect: "Armazenar as carca\xE7as das aves mortas "
+  justification: "A principal fun\xE7\xE3o da composteira \xE9 dar fim \xE0 mortalidade
+    de frango"

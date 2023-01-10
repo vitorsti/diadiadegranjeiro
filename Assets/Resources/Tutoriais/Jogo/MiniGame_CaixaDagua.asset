@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8a049b5b44b76b4bb2353f1e2131fe8, type: 3}
+  m_Name: MiniGame_CaixaDagua
+  m_EditorClassIdentifier: 
+  datas:
+  - name: 
+    description: "Nosso suprimento de \xE1gua deve sempre estar com o PH balanceado,
+      para evitar que fique contaminado."
+    image: {fileID: 0}
+    video: {fileID: 0}
+    id: 0
+    videoOrImage: 2
+    enablePointer: 0
+    pointer: {fileID: 0}
+    pointerPosition: {x: 0, y: 0, z: 0}
+    useCustomPosition: 0
+    customPosition: {x: 0, y: 0, z: 0}
+  - name: 
+    description: "Por isso, devemos adicionar cloro na \xE1gua, para conseguir balancear
+      o PH da melhor maneira poss\xEDvel!"
+    image: {fileID: 21300000, guid: f132d5a440df84a419f8c340ce536463, type: 3}
+    video: {fileID: 0}
+    id: 1
+    videoOrImage: 1
+    enablePointer: 0
+    pointer: {fileID: 0}
+    pointerPosition: {x: 0, y: 0, z: 0}
+    useCustomPosition: 0
+    customPosition: {x: 0, y: 0, z: 0}
+  - name: 
+    description: "Clique para medir o n\xEDvel de PH, e em seguida preencha o que
+      falta para atingir 100!"
+    image: {fileID: 0}
+    video: {fileID: 32900000, guid: 356e55dc91d44604d8f6d3d1ad9ee0e1, type: 3}
+    id: 2
+    videoOrImage: 0
+    enablePointer: 0
+    pointer: {fileID: 0}
+    pointerPosition: {x: 0, y: 0, z: 0}
+    useCustomPosition: 0
+    customPosition: {x: 0, y: 0, z: 0}
+  - name: 
+    description: "Fazemos isso, para evitar que a agu\xE1 fique suja!"
+    image: {fileID: 0}
+    video: {fileID: 0}
+    id: 3
+    videoOrImage: 2
+    enablePointer: 0
+    pointer: {fileID: 0}
+    pointerPosition: {x: 0, y: 0, z: 0}
+    useCustomPosition: 0
+    customPosition: {x: 0, y: 0, z: 0}
+  firstTime: 1
+  resetFistTime: 0

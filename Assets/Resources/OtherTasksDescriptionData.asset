@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 191bf60c4b3549b44bccf9ffad965d7d, type: 3}
+  m_Name: OtherTasksDescriptionData
+  m_EditorClassIdentifier: 
+  datas:
+  - name: Falta de lenha
+    description: "Frio...muito frio. \nCompre lenha para manter as galinhas aquecidas,
+      antes que elas fiquem doentes."
+    taskName: Falta de lenha
+    estamina: 20
+    timeToComplete: 120
+  - name: "\xC1gua poluida"
+    description: "Eca, gosto ruim! \nA caixa de \xE1gua est\xE1 polu\xEDda, limpe-a."
+    taskName: "\xC1gua poluida"
+    estamina: 20
+    timeToComplete: 120
+  - name: Pegar Cachorro
+    description: 'Corra!
+
+      A cerca quebrou e o cachorro escapou, pegue-o antes
+      que ele cause problemas.'
+    taskName: Pegar Cachorro
+    estamina: 30
+    timeToComplete: 120
+  - name: "Retirar carca\xE7as"
+    description: "Isso n\xE3o est\xE1 cheirando bem...\r\nV\xE1rias carca\xE7as est\xE3o
+      expostas, retirei-as."
+    taskName: "Retirar carca\xE7as"
+    estamina: 20
+    timeToComplete: 120
+  - name: Queda de energia
+    description: "Apag\xE3o!\r\nO gerador de energia pifou, conserte-o."
+    taskName: Queda de energia
+    estamina: 20
+    timeToComplete: 120
+  - name: "Coletar ra\xE7\xE3o - Silo A"
+    description: "Preju\xEDzo...\r\nO silo estouro, arrume-o."
+    taskName: "Coletar ra\xE7\xE3o - Silo A"
+    estamina: 20
+    timeToComplete: 120
+  - name: "Coletar ra\xE7\xE3o - Silo B"
+    description: "Mais preju\xEDzo...\r\nO outro silo estourou, arrume-o."
+    taskName: "Coletar ra\xE7\xE3o - Silo B"
+    estamina: 20
+    timeToComplete: 120
+  - name: Aves na propriedade
+    description: "Ratos voadores.\r\nV\xE1rias aves silvestres est\xE3o na propriedade,
+      expandias antes que elas transmitam sonecas para as galinhas."
+    taskName: Aves na propriedade
+    estamina: 20
+    timeToComplete: 120
+  - name: "Infesta\xE7\xE3o de ratos"
+    description: "Vamos precisar de uma ratoeira maior...\r\nUma infesta\xE7\xE3o
+      de ratos tomou conta da propriedade, elimine-os."
+    taskName: "Infesta\xE7\xE3o de ratos"
+    estamina: 20
+    timeToComplete: 0
+  - name: "Entrega de ra\xE7\xE3o"
+    description: "Hora da boia!\nO caminh\xE3o de ra\xE7\xE3o chegou, atende-o"
+    taskName: "Entrega de ra\xE7\xE3o"
+    estamina: 20
+    timeToComplete: 0
+  - name: "Contamina\xE7\xE3o"
+    description: "Quanta sujeira...\r\nO rodol\xFAvio estava com defeito, o caminh\xE3o
+      passou e contaminou toda a propriedade."
+    taskName: "Contamina\xE7\xE3o"
+    estamina: 20
+    timeToComplete: 0
+  - name: Fiscal
+    description: O fiscal chegou para avaliar a propriedade
+    taskName: Fiscal
+    estamina: 0
+    timeToComplete: 0
+  - name: Mega
+    description: "Pela neglig\xEAncia das tarefas, as galinhas desse lote adquiriram
+      uma doen\xE7a\r\nA cada dia a passa, a sa\xFAde do lote diminuiu, esse dano
+      \xE9 permanente."
+    taskName: Mega
+    estamina: 100
+    timeToComplete: 0
+  - name: Pegar Raposa
+    description: 'Esconda as galinhas!
+
+      Uma raposa sorrateira foi vista invadindo
+      a propriedade, retire-a.'
+    taskName: Pegar Raposa
+    estamina: 30
+    timeToComplete: 120

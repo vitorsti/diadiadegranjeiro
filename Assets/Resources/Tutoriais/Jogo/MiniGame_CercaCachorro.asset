@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8a049b5b44b76b4bb2353f1e2131fe8, type: 3}
+  m_Name: MiniGame_CercaCachorro
+  m_EditorClassIdentifier: 
+  datas:
+  - name: 
+    description: "Hmmm... Lembra quando eu disse ser bom dar uma olhada na cerca
+      \xE0s vezes?"
+    image: {fileID: 0}
+    video: {fileID: 0}
+    id: 0
+    videoOrImage: 2
+    enablePointer: 0
+    pointer: {fileID: 0}
+    pointerPosition: {x: 0, y: 0, z: 0}
+    useCustomPosition: 0
+    customPosition: {x: 0, y: 0, z: 0}
+  - name: 
+    description: Parece que o cachorro(ou uma raposa) conseguiu encontrar uma brecha
+      na cerca!
+    image: {fileID: 21300000, guid: 6d6daf53d43b5864e85226d1a09154d2, type: 3}
+    video: {fileID: 0}
+    id: 1
+    videoOrImage: 1
+    enablePointer: 0
+    pointer: {fileID: 0}
+    pointerPosition: {x: 0, y: 0, z: 0}
+    useCustomPosition: 0
+    customPosition: {x: 0, y: 0, z: 0}
+  - name: 
+    description: "Corra atr\xE1s dele! Evite encostar nos obst\xE1culos que aparecem
+      no caminho! "
+    image: {fileID: 21300000, guid: 5abc7c2d515bc184191e0aff668d2223, type: 3}
+    video: {fileID: 0}
+    id: 2
+    videoOrImage: 1
+    enablePointer: 0
+    pointer: {fileID: 0}
+    pointerPosition: {x: 0, y: 0, z: 0}
+    useCustomPosition: 0
+    customPosition: {x: 0, y: 0, z: 0}
+  - name: 
+    description: "Apenas clique na tela para pular os obst\xE1culos!"
+    image: {fileID: 0}
+    video: {fileID: 32900000, guid: 1d761c3e7861cec47a31d365269b4d05, type: 3}
+    id: 3
+    videoOrImage: 0
+    enablePointer: 0
+    pointer: {fileID: 0}
+    pointerPosition: {x: 0, y: 0, z: 0}
+    useCustomPosition: 0
+    customPosition: {x: 0, y: 0, z: 0}
+  - name: 
+    description: Esse danado tem que ser pego antes que cause problemas!
+    image: {fileID: 0}
+    video: {fileID: 0}
+    id: 4
+    videoOrImage: 2
+    enablePointer: 0
+    pointer: {fileID: 0}
+    pointerPosition: {x: 0, y: 0, z: 0}
+    useCustomPosition: 0
+    customPosition: {x: 0, y: 0, z: 0}
+  firstTime: 1
+  resetFistTime: 0

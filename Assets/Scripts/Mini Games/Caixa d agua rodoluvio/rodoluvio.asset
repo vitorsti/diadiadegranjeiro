@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 730c266d682fc2646b1d840438206ca1, type: 3}
+  m_Name: rodoluvio
+  m_EditorClassIdentifier: 
+  datas:
+  - name: Rodoluvio
+    value: 2000
+  datasDefault:
+  - name: Rodoluvio
+    value: 2000
+  setDefaultValues: 0

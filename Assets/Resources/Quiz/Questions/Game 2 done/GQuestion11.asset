@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3adefe8844ee81c4c91fd6ee98ff4f2d, type: 3}
+  m_Name: GQuestion11
+  m_EditorClassIdentifier: 
+  question: "Avalie as afirma\xE7\xF5es a seguir e posteriormente escolha a alternativa
+    correta. \r\nI \u2013 Os arredores do avi\xE1rio dever\xE3o ser delimitados por
+    cerca de isolamento com altura m\xEDnima de um metro e afastamento de, pelo menos,
+    cinco metros do galp\xE3o.\nII \u2013 Especial aten\xE7\xE3o deve ser dada aos
+    pilares de sustenta\xE7\xE3o das cercas que devem estar espa\xE7ados a cada 1
+    m.\r\nIII \u2013 Recomenda-se instalar o silo em local pr\xF3ximo \xE0 cerca
+    de isolamento do n\xFAcleo, no lado interno, que permita abastecimento de ra\xE7\xE3o
+    com o caminh\xE3o do lado externo da cerca. \n"
+  answers:
+  - "As alternativas I e II s\xE3o verdadeiras.\r\n"
+  - "As alternativas I e III s\xE3o verdadeiras.\r\n"
+  - "Somente a alternativa III \xE9 verdadeira."
+  itIsCorrect: "As alternativas I e III s\xE3o verdadeiras.\r\n"
+  justification: "Alternativa II \xE9 falsa - este espa\xE7amento \xE9 muito pequeno
+    fazendo o encarecimento da constru\xE7\xE3o da cerca, o correto seria a cada
+    5m"

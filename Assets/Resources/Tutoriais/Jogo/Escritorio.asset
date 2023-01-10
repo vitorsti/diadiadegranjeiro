@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8a049b5b44b76b4bb2353f1e2131fe8, type: 3}
+  m_Name: Escritorio
+  m_EditorClassIdentifier: 
+  datas:
+  - name: loja
+    description: "Esse \xEDcone \xE9 a loja, nela voc\xEA poder\xE1 comprar upgrades."
+    image: {fileID: -5048810476256618341, guid: 61a5203d7c2fe2847b9d91d874c2f91e,
+      type: 3}
+    video: {fileID: 0}
+    id: 0
+    videoOrImage: 2
+    enablePointer: 1
+    pointer: {fileID: 1678317745657008249, guid: e681d5ad0c485ac479d6c8a025ad5ffc,
+      type: 3}
+    pointerPosition: {x: 0, y: 0, z: 0}
+    useCustomPosition: 1
+    customPosition: {x: -97, y: -62, z: 0}
+  - name: "configura\xE7\xF5es"
+    description: "M\xFAsica muito alta? Ajuste o \xC1udio do jogo aqui."
+    image: {fileID: 4372037364008474294, guid: 99c9ed2248587bd42841993aeda4eb06, type: 3}
+    video: {fileID: 0}
+    id: 1
+    videoOrImage: 2
+    enablePointer: 1
+    pointer: {fileID: 4546220792905713953, guid: ce17a71e7ec06ab4ea5cb4c55634b935,
+      type: 3}
+    pointerPosition: {x: -140, y: 90, z: 0}
+    useCustomPosition: 1
+    customPosition: {x: 12, y: -68, z: 0}
+  - name: boas praticas
+    description: "Aqui voc\xEA encontrara informa\xE7\xF5es que podem ser uteis na
+      realidade."
+    image: {fileID: -5431031100249202250, guid: 99c9ed2248587bd42841993aeda4eb06,
+      type: 3}
+    video: {fileID: 0}
+    id: 2
+    videoOrImage: 2
+    enablePointer: 1
+    pointer: {fileID: 624889913851224799, guid: 2ac4f21d29f155e48af4f8cbd50049c8,
+      type: 3}
+    pointerPosition: {x: -32, y: 90, z: 0}
+    useCustomPosition: 1
+    customPosition: {x: 103, y: -62, z: 0}
+  - name: estatistica
+    description: "Mostra algumas informa\xE7\xF5es sobre o jogo."
+    image: {fileID: 1522825608698267162, guid: 99c9ed2248587bd42841993aeda4eb06, type: 3}
+    video: {fileID: 0}
+    id: 3
+    videoOrImage: 2
+    enablePointer: 1
+    pointer: {fileID: 6300004598123264898, guid: 8cfb20436dc61ff47b0039674c3d7a52,
+      type: 3}
+    pointerPosition: {x: 68, y: 90, z: 0}
+    useCustomPosition: 1
+    customPosition: {x: -113, y: -65, z: 0}
+  - name: customizar personagem
+    description: "Clique nesse \xEDcone para mudar apar\xEAncia do seu personagem."
+    image: {fileID: 677815728374821303, guid: 99c9ed2248587bd42841993aeda4eb06, type: 3}
+    video: {fileID: 0}
+    id: 4
+    videoOrImage: 2
+    enablePointer: 1
+    pointer: {fileID: 2536358035096417451, guid: da1e77f4a890a39488f2f65bb76015fc,
+      type: 3}
+    pointerPosition: {x: -78, y: -14, z: 0}
+    useCustomPosition: 1
+    customPosition: {x: -268, y: -28, z: 0}
+  - name: sair do jogo
+    description: "Clique nesse \xEDcone para sair do jogo."
+    image: {fileID: 6753556488420041696, guid: 99c9ed2248587bd42841993aeda4eb06, type: 3}
+    video: {fileID: 0}
+    id: 5
+    videoOrImage: 2
+    enablePointer: 1
+    pointer: {fileID: 6931596325768399160, guid: 7ae23c6878cab424bb4968915e59102a,
+      type: 3}
+    pointerPosition: {x: 20, y: -104, z: 0}
+    useCustomPosition: 1
+    customPosition: {x: -202, y: 50, z: 0}
+  firstTime: 1
+  resetFistTime: 0

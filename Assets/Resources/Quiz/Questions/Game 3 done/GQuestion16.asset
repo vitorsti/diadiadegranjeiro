@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3adefe8844ee81c4c91fd6ee98ff4f2d, type: 3}
+  m_Name: GQuestion16
+  m_EditorClassIdentifier: 
+  question: "A \xE1gua destinada ao consumo das aves, ao sistema de resfriamento
+    e \xE0 desinfec\xE7\xE3o dos ve\xEDculos que entram na propriedade possuem um
+    ponto em comum, a caixa d\u2019\xE1gua em que s\xE3o armazenadas. Dentre os principais
+    conceitos, escolha a alternativa correta: \r\n"
+  answers:
+  - "Quanto mais desinfetante possuir a caixa d\u2019\xE1gua do sistema de desinfec\xE7\xE3o,
+    melhor ser\xE1 o controle de doen\xE7as na propriedade. "
+  - "O manejo da caixa d\u2019\xE1gua inclui apenas a limpeza/substitui\xE7\xE3o
+    dos filtros, inser\xE7\xE3o de cloro, mant\xEA-la fechada com a tampa evitando
+    entrada de animais. "
+  - "Na portaria de acesso \xE0 granja, deve ser instalado um sistema de desinfec\xE7\xE3o,
+    seja arco de desinfec\xE7\xE3o, bomba de aspers\xE3o motorizada ou outro m\xE9todo
+    capaz de permitir a higieniza\xE7\xE3o e desinfec\xE7\xE3o de ve\xEDculos que
+    precisem adentrar no sistema produtivo. "
+  itIsCorrect: "Na portaria de acesso \xE0 granja, deve ser instalado um sistema
+    de desinfec\xE7\xE3o, seja arco de desinfec\xE7\xE3o, bomba de aspers\xE3o motorizada
+    ou outro m\xE9todo capaz de permitir a higieniza\xE7\xE3o e desinfec\xE7\xE3o
+    de ve\xEDculos que precisem adentrar no sistema produtivo. "
+  justification: 
